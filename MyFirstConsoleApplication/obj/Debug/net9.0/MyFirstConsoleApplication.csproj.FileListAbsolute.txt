@@ -1,0 +1,14 @@
+C:\Users\jrfanfan.GHESKIO\Documents\cse325\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\net9.0\MyFirstConsoleApplication.exe
+C:\Users\jrfanfan.GHESKIO\Documents\cse325\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\net9.0\MyFirstConsoleApplication.deps.json
+C:\Users\jrfanfan.GHESKIO\Documents\cse325\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\net9.0\MyFirstConsoleApplication.runtimeconfig.json
+C:\Users\jrfanfan.GHESKIO\Documents\cse325\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\net9.0\MyFirstConsoleApplication.dll
+C:\Users\jrfanfan.GHESKIO\Documents\cse325\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\net9.0\MyFirstConsoleApplication.pdb
+C:\Users\jrfanfan.GHESKIO\Documents\cse325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrfanfan.GHESKIO\Documents\cse325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\jrfanfan.GHESKIO\Documents\cse325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.AssemblyInfo.cs
+C:\Users\jrfanfan.GHESKIO\Documents\cse325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\jrfanfan.GHESKIO\Documents\cse325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.dll
+C:\Users\jrfanfan.GHESKIO\Documents\cse325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net9.0\refint\MyFirstConsoleApplication.dll
+C:\Users\jrfanfan.GHESKIO\Documents\cse325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.pdb
+C:\Users\jrfanfan.GHESKIO\Documents\cse325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net9.0\MyFirstConsoleApplication.genruntimeconfig.cache
+C:\Users\jrfanfan.GHESKIO\Documents\cse325\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net9.0\ref\MyFirstConsoleApplication.dll
